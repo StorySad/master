@@ -48,8 +48,8 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/Aiinne/Aine-MD
-cd Aine-MD
+git clone https://github.com/StorySad/master
+cd master
 pkg install yarn
 yarn
 
